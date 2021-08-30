@@ -1,0 +1,56 @@
+<html>
+<head>
+<style>
+  p {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: red;
+    }
+ h1 {
+    font-size: 30px;
+    font-weight: italic;
+    background-color: yellow;
+    }
+p.one {
+    border-style: solid;
+    border-width:8px;
+    font-size: 30px;
+    font-weight: italic;
+    background-color: green;
+    }
+div {
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+    font-size: 30px;
+    font-weight: italic;
+    width: 300px;
+    margin: auto;
+    border: 8px solid red;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    box-sizing: border-box;
+    }
+hey {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: red;
+    height: 200px;
+    width: 50%;
+    background-color: red;
+    }
+</style>
+</head>
+<body style="background-color: blue;">
+<h1>Hey hi, I make artwork.</h1>
+<p>Want an artwork?</p>
+<p class="one">Are you still thinking about it?</p>
+<div>Like really?</div>
+<div>You there?</div>
+</body>
+</html>
